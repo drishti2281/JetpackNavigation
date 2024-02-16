@@ -1,4 +1,4 @@
-package com.harsh.jetpacknavigation
+package com.example.jetpacknavigation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
